@@ -1,0 +1,81 @@
+body {
+    background-image: url(Relax.jpeg);
+    color: rgb(255, 145, 0);
+}
+  
+#Header {
+    border: 5px solid royalblue;
+    border-radius: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    float:right;
+    text-align: center;
+    background-color: red;
+    text-transform: uppercase;
+}
+
+#Left Nav {
+        border: bold 8px black;
+        width: 700px;
+        text-align: center;
+        padding-bottom: 8px;
+        background-color: #8e41d5;
+        font-size: 40px;
+        
+}
+
+#Content {
+    border: dotted 20px black;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+    background-color: #8e41d5;
+    font-size: 20px;    
+}
+
+#bow {
+    font-size: 50px;
+    color: #FFBC00;
+}
+
+.off {
+    margin: 20px 20px 20px 20px;
+    position: relative;
+}
+
+.first-txt {
+    position: absolute;
+    text-align: center;
+    top: 150px;
+    left: 82px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+h1{
+    color: #FFBC00;
+    font-size: 60px;
+}
+
+h3 {
+    color:red;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+ 
